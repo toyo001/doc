@@ -5,7 +5,7 @@
 ## 个人信息 
 * 姓 名：曾滔
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：30  
-* 邮 箱：275949682@qq.com&emsp;&emsp;&emsp;&emsp; 工作经验： 7年
+* 邮 箱：275949682@qq.com&emsp;&emsp;&emsp;&emsp; 工作经验： 8年
 * 专 业：游戏软件开发  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 求 职 岗 位：游戏开发工程师/全栈开发&emsp;&emsp;&emsp;&emsp;&emsp;
 * 户 籍：湖南
 
